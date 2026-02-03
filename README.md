@@ -207,9 +207,3 @@ SkinShade AI is designed with privacy as a core principle:
 - HSV thresholds are tuned for common skin tones; extreme lighting (e.g., colored stage lights) may reduce accuracy
 - Fitzpatrick classification uses ITA approximation, not dermatological ground truth
 - No batch processing support in the current UI
-
----
-
-## License
-
-This project is provided for educational and personal use.
